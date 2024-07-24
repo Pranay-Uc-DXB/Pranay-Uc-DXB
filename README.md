@@ -1,7 +1,12 @@
 ## Hi there 👋
 
-<!--
-**Pranay-Uc-DXB/Pranay-Uc-DXB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a problem solver with expertise in machine learning (ML) and artificial intelligence (AI) with proven scientific research experience. My projects are aimed at creating business value with an emphasis on deployable models or providing end-to-end data science solutions. Some of my solutions are in the domain of computer vision, large language models (LLMs), Natural language processing (NLP), forecasting, & optimization. 
+
+Prior to pivoting into ML/AI, my background was in business intelligence & engineering where I used skills such ETL, visualization, & data modeling to build & deliver robust reports. 
+
+Skills & Technologies:
+
+
 
 Here are some ideas to get you started:
 
