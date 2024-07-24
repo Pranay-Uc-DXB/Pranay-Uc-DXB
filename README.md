@@ -12,18 +12,15 @@ Machine Learning / Deep Learning: PyTorch, Tensorflow, Keras, Scikit-Learn
 
 Natural Language Processing: HuggingFace - Transformers, NLTK, Gensim, OpenAI, LangChain
 
-Data Processing & Visualization:
+Data Visualization & Interfaces:
+* Tableau Desktop/server, Power BI, Plotly, Seaborn, Streamlit, Gradio 
+
+Data Processing:
 * ETL: Tableau Prep Builder
 
 * Data Analysis and Manipulation: Pandas, Numpy, Excel
 
 * Video & Audio Processing: FFMPEG
-
-
-Data Visualization & Interfaces:
-
-* Tableau Desktop/server, Power BI, Plotly, Seaborn, Streamlit, Gradio 
-
 
 CI/CD:
 * API Endpoints: FlaskAPI, AWS
