@@ -10,17 +10,25 @@ Language(s): Python, SQL, Tableau & Power BI syntax
 
 Machine Learning & Data Science:
 Machine Learning / Deep Learning: PyTorch, Tensorflow, Keras, Scikit-Learn
+
 Natural Language Processing: HuggingFace - Transformers, NLTK, Gensim, OpenAI, LangChain
 
 Data Processing & Visualization:
 ETL: Tableau Prep Builder
+
 Data Analysis and Manipulation: Pandas, Numpy, Excel
+
 Data Visualization: Tableau Desktop/server, Power BI, Plotly, Seaborn
+
 Video & Audio Processing: FFMPEG
+
 Interfaces: Streamlit, Gradio 
 
 CI/CD:
 API Endpoints: FlaskAPI, AWS
+
 Relational Database: MySQL, PostgreSQL
+
 Vector Database: FAISS, ChromaDB, Pinecone 
+
 Containerization: Docker
