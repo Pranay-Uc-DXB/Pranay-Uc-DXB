@@ -13,23 +13,23 @@ Machine Learning / Deep Learning: PyTorch, Tensorflow, Keras, Scikit-Learn
 Natural Language Processing: HuggingFace - Transformers, NLTK, Gensim, OpenAI, LangChain
 
 Data Processing & Visualization:
--ETL: Tableau Prep Builder
+* ETL: Tableau Prep Builder
 
--Data Analysis and Manipulation: Pandas, Numpy, Excel
+* Data Analysis and Manipulation: Pandas, Numpy, Excel
 
--Video & Audio Processing: FFMPEG
+* Video & Audio Processing: FFMPEG
 
 
 Data Visualization & Interfaces:
 
--Tableau Desktop/server, Power BI, Plotly, Seaborn, Streamlit, Gradio 
+* Tableau Desktop/server, Power BI, Plotly, Seaborn, Streamlit, Gradio 
 
 
 CI/CD:
--API Endpoints: FlaskAPI, AWS
+* API Endpoints: FlaskAPI, AWS
 
--Relational Database: MySQL, PostgreSQL
+* Relational Database: MySQL, PostgreSQL
 
--Vector Database: FAISS, ChromaDB, Pinecone 
+* Vector Database: FAISS, ChromaDB, Pinecone 
 
--Containerization: Docker
+* Containerization: Docker
