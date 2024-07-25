@@ -19,7 +19,7 @@ Data Visualization & Interfaces:
 * Tableau Desktop/server, Power BI, Plotly, Seaborn, Streamlit, Gradio 
 
 Data Processing:
-* ETL: Tableau Prep Builder
+* ETL: Tableau Prep Builder, Power Query
 
 * Data Analysis and Manipulation: Pandas, Numpy, Excel
 
