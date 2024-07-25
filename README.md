@@ -6,11 +6,14 @@ Some of my solutions are in the domain of computer vision, large language models
 
 ## Skills & Technologies:
 
-Language(s): Python, SQL, Tableau & Power BI syntax
+Language(s): 
+* Python, SQL, Tableau & Power BI syntax
 
-Machine Learning / Deep Learning: PyTorch, Tensorflow, Keras, Scikit-Learn
+Machine Learning / Deep Learning: 
+* PyTorch, Tensorflow, Keras, Scikit-Learn
 
-Natural Language Processing: HuggingFace - Transformers, NLTK, Gensim, OpenAI, LangChain
+Natural Language Processing: 
+* HuggingFace - Transformers, NLTK, Gensim, OpenAI, LangChain
 
 Data Visualization & Interfaces:
 * Tableau Desktop/server, Power BI, Plotly, Seaborn, Streamlit, Gradio 
