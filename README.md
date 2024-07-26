@@ -6,26 +6,26 @@ Some of my solutions are in the domain of computer vision, large language models
 
 ## Skills & Frameworks:
 
-Language(s): 
+### Language(s): 
 * Python, SQL, Tableau & Power BI syntax
 
-Machine Learning / Deep Learning: 
+### Machine Learning / Deep Learning: 
 * PyTorch, Tensorflow, Keras, Scikit-Learn
 
-Natural Language Processing: 
+### Natural Language Processing: 
 * HuggingFace - Transformers, NLTK, Gensim, OpenAI, LangChain
 
-Data Visualization & Interfaces:
+### Data Visualization & Interfaces:
 * Tableau Desktop/server, Power BI, Plotly, Seaborn, Streamlit, Gradio 
 
-Data Processing:
+### Data Processing:
 * ETL: Tableau Prep Builder, Power Query
 
 * Data Analysis and Manipulation: Pandas, Numpy, Excel
 
 * Video & Audio Processing: FFMPEG
 
-CI/CD:
+### CI/CD:
 * API Endpoints: FlaskAPI, AWS
 
 * Relational Database: MySQL, PostgreSQL
