@@ -4,7 +4,7 @@ I am a problem solver with expertise in machine learning (ML) and artificial int
 
 Some of my solutions are in the domain of computer vision, large language models (LLMs), Natural language processing (NLP), forecasting, & optimization. Prior to pivoting into ML/AI, my background was in business intelligence & engineering where I used skills such ETL, visualization, data modeling, & querying to build & deliver robust reports. 
 
-## Skills & Technologies:
+## Skills & Frameworks:
 
 Language(s): 
 * Python, SQL, Tableau & Power BI syntax
