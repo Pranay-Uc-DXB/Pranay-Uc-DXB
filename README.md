@@ -30,6 +30,6 @@ Some of my solutions are in the domain of computer vision, large language models
 
 * Relational Database: MySQL, PostgreSQL
 
-* Vector Database: FAISS, ChromaDB, Pinecone 
+* Vector Database: FAISS, ChromaDB, qdrant 
 
-* Containerization: Docker
+* Containerization: Docker, Kubernetes
