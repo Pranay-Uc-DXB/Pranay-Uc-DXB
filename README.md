@@ -19,11 +19,11 @@ Some of my solutions are in the domain of computer vision, large language models
 * Tableau Desktop/server, Power BI, Plotly, Seaborn, Streamlit, Gradio 
 
 ### Data Processing:
-* ETL: Tableau Prep Builder, Power Query
+* ETL: Tableau Prep Builder, Power Query, GitHub Actions
 
 * Data Analysis and Manipulation: Pandas, Numpy, Excel
 
-* Video & Audio Processing: FFMPEG
+* Video & Audio Processing: FFMPEG, FasterWhisper, GoogleTranslator, SpeechRecognizer
 
 ### CI/CD:
 * API Endpoints: FlaskAPI, AWS
